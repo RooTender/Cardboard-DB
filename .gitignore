@@ -27,3 +27,6 @@ coverage
 *.sln
 *.sw?
 .vscode/*
+WebApi/obj
+WebApi/bin
+WebApi/.vs
